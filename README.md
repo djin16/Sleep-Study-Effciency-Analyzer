@@ -2,8 +2,6 @@
 
 This project analyzes the relationship between sleep habits and student learning efficiency. The app uses Python and Streamlit to explore how sleep hours, sleep quality, study hours, and screen time before bed may affect study efficiency.
 
-Web Link: http://192.168.0.249:8501
-
 ## Features
 
 - Generates or uploads student study data
@@ -26,4 +24,4 @@ Web Link: http://192.168.0.249:8501
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run main.py
