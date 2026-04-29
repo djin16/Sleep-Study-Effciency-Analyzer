@@ -22,6 +22,34 @@ This project analyzes the relationship between sleep habits and student learning
 
 ## How to Run
 
+### 1. Clone this repository
+
+```bash
+git clone https://github.com/djin16/Sleep-Study-Effciency-Analyzer
+```
+
+### 2. Open the project folder
+
+```bash
+cd Sleep-Study-Effciency-Analyzer
+```
+
+### 3. Install required packages
+
 ```bash
 pip install -r requirements.txt
+```
+
+### 4. Run the Streamlit app
+
+```bash
 streamlit run main.py
+```
+
+### 5. Open the app
+
+After running the command, Streamlit will show a local URL in the terminal, usually:
+
+```bash
+http://localhost:8501
+```
